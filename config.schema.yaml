@@ -1,6 +1,6 @@
 ---
-  st2:
-    description: "key for st2"
+  2fa:
+    description: "key for 2fa"
     type: "string"
     required: true
     secret: true
