@@ -1,0 +1,6 @@
+---
+  st2:
+    description: "key for st2"
+    type: "string"
+    required: true
+    secret: true
