@@ -1,5 +1,6 @@
 ---
 name : mock-vault
+ref: mockvault
 description : mock-vault pack
 version : 0.1.0
 author : Bitovi, LLC
